@@ -1,0 +1,28 @@
+name: Ramón Markus Kadi
+favicon: null
+layout_spectrum: 0.04959955858066678
+typography_spectrum: 0.3563668916467577
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6660803323611617
+  lightness: 0.3181687155738473
+  saturation: 0.9418701913673431
+  rhythmicContrast: 0.7698304411023855
+purpose: []
